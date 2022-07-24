@@ -1,1 +1,2 @@
 Odin is the king!
+testing terminal - mv , git
